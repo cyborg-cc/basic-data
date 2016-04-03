@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cyborg.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.1811 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09449 : 526.1811 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
+       id="perspective4285" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4271">
+      <path
+         sodipodi:nodetypes="ccccccsc"
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m -899.5537,163.02956 -42.86826,58.47463 6.66484,214.72931 -83.31038,87.13654 -1.6663,82.46851 -134.9629,133.81682 c -60.2593,-57.55336 -129.7813,-288.10122 -61.9424,-430.18173 45.6,-95.50379 188.5396,-155.34449 318.0854,-146.44408 z"
+         style="fill:#767676;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66"
+     inkscape:cx="394.96029"
+     inkscape:cy="528.25522"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="870"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#eaeaea;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 547.77479,340.09691 c 0,121.56288 -67.99136,264.41983 -160.99381,264.41983 -93.00245,0 -175.79786,-142.85695 -175.79786,-264.41983 0,-121.56288 82.79541,-175.79825 175.79786,-175.79825 93.00246,0 160.99381,54.23538 160.99381,175.79825 z"
+       id="path4201-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="fill:#767676;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 407.87166,150.3701 -26.17819,37.17604 4.06999,136.51707 -50.87482,55.39821 -1.01756,52.43048 -82.41727,85.07586 C 214.6555,480.37742 172.20077,333.80351 213.62767,243.4739 241.47406,182.75608 328.76243,144.71155 407.87166,150.3701 Z"
+       id="path4222"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccsc" />
+    <path
+       style="fill:#767676;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 405.74862,609.81477 -1.8505,-40.45768 29.60805,-38.53112 29.60806,3.85312 46.26259,-77.06226 0,-60.68653 24.98179,-40.45767 22.20603,0 C 547.23422,441.4743 522.38538,575.6525 405.74862,609.81477 Z"
+       id="path4227"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.14035088;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -980.30303,162.96827 -43.93937,50 3.0303,222.72727 -86.3637,90.90909 4.5455,78.78788 -92.4242,75.75757 -19.697,-43.93939 56.0606,-36.36364 -1.5152,-74.24242 78.7879,-84.84849 -4.5454,-218.18181 39.3939,-45.45455 z"
+       id="path4259"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath4271)"
+       transform="matrix(0.61066614,0,0,0.63576353,957.19872,46.721857)" />
+    <path
+       style="fill:#ff7c7c;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 336.72052,282.5781 -47.71697,-5.21111 -35.72691,26.22189 35.87139,25.64334 48.37117,-6.02771 25.91191,-25.88011 z"
+       id="path4240"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:203.80763245px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3db0ef;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.53545"
+       y="834.30438"
+       id="text4275"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4277"
+         x="60.53545"
+         y="834.30438"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Thin';fill:#3db0ef;fill-opacity:1;stroke:none;stroke-opacity:1">Cyborg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#838383;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.4852"
+       y="934.11188"
+       id="text4279"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4281"
+         x="176.4852"
+         y="934.11188"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Light';fill:#838383;fill-opacity:1">The Computer Club</tspan></text>
+  </g>
+</svg>
